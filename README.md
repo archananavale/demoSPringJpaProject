@@ -1,5 +1,4 @@
 # demoSPringJpaProject
 JPA Demo 
-This is Simple emoployee management  data  is demonstrated  using Spring Framework   
-
+This is Simple emoployee management backend application created using Springboot framework 
 

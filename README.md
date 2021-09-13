@@ -4,7 +4,7 @@
 Introduction : 
 Backend Application : JPA Demo  of Springboot framework 
   1. Employee Management System backend applicatio 
-  2.  product and purchaseOrder example code . 
+ 
 
 
 source Code Folder Struture:
@@ -17,7 +17,7 @@ source Code Folder Struture:
    1. Open Project in IntelliJIDEA 
      Download project and open in IntelliJIDEA
    2. Compile Project : Go to terminal and enter Following comand
-          mvn spring-boot:run
+          ./gradlew bootrun
   3. GO to Postmann Tool and GET  or Post data to Database using link in Controller java files 
 
 

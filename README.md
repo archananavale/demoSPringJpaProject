@@ -1,8 +1,8 @@
-# demoSPringJpaProject
+** demoSPringJpaProject
 **Title** : demoSpringJPAProject 
 
 Introduction : 
-Backend : JPA Demo  of Springboot framework 
+Backend Application : JPA Demo  of Springboot framework 
   1. Employee Management System backend applicatio 
   2.  product and purchaseOrder example code . 
 

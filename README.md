@@ -1,17 +1,16 @@
 # demoSPringJpaProject
 **Title** : demoSpringJPAProject 
 
-
-**Introduction** : 
+Introduction : 
 Backend : JPA Demo  of Springboot framework 
   1. Employee Management System backend applicatio 
   2.  product and purchaseOrder example code . 
 
 
-source Code Folder Struture ->
-   demoSPringJpaProject/src/main/java/com/example/demoSPringJpaProject/ -->
-  Controller : All controller java files 
-  Model : All database table structer for each entity 
+source Code Folder Struture:
+   demoSPringJpaProject/src/main/java/com/example/demoSPringJpaProject/ 
+   Controller : All controller java files
+   Model : All database table structer for each entity 
    Repository : JPA repository code  
 
 ** TODO **
@@ -23,6 +22,6 @@ source Code Folder Struture ->
 
 
 
-Pending Work : Frontend application to Employee Managemnet System
+**Pending Work** : Frontend application to Employee Managemnet System
 
 

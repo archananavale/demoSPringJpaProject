@@ -2,8 +2,8 @@
 **Title** : demoSpringJPAProject 
 
 Introduction : 
-Backend Application : JPA Demo  of Springboot framework 
-  1. Employee Management System backend applicatio 
+Backend Application : JPA Demo  of Springboot framework - Writing REST API 
+  1. Employee Management System backend applicatio :
  
 
 
@@ -18,7 +18,7 @@ source Code Folder Struture:
      Download project and open in IntelliJIDEA
    2. Compile Project : Go to terminal and enter Following comand
           ./gradlew bootrun
-  3. GO to Postmann Tool and GET  or Post data to Database using link in Controller java files 
+  3. GO to Postmann Tool to Test REST API
 
 
 

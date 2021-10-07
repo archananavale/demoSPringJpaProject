@@ -4,7 +4,6 @@ import com.example.demoSPringJpaProject.Model.Customer;
 import com.example.demoSPringJpaProject.Repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 import java.util.Map;
 
